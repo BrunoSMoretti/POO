@@ -1,0 +1,46 @@
+C:\Projetos\Engineering Graduation Projects\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.exe
+C:\Projetos\Engineering Graduation Projects\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.deps.json
+C:\Projetos\Engineering Graduation Projects\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.runtimeconfig.json
+C:\Projetos\Engineering Graduation Projects\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.runtimeconfig.dev.json
+C:\Projetos\Engineering Graduation Projects\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.dll
+C:\Projetos\Engineering Graduation Projects\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.pdb
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.TelaPrincipal.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.SplashScreen.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaAdicionar.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaDeletar.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaVisualizar.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.csproj.GenerateResource.cache
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.AssemblyInfoInputs.cache
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.AssemblyInfo.cs
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.csproj.CoreCompileInputs.cache
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.dll
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.pdb
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.genruntimeconfig.cache
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaModificar.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaProcura.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaArquivo.resources
+C:\Projetos\Engineering Graduation Projects\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.csproj.AssemblyReference.cache
+E:\Download\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.exe
+E:\Download\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.deps.json
+E:\Download\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.runtimeconfig.json
+E:\Download\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.runtimeconfig.dev.json
+E:\Download\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.dll
+E:\Download\operations-register\bin\Debug\netcoreapp3.1\OperationsRegister.pdb
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.csproj.AssemblyReference.cache
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.TelaPrincipal.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.SplashScreen.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaAdicionar.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaArquivo.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaDeletar.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaModificar.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaProcura.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.Screens.UserControls.TelaVisualizar.resources
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.csproj.GenerateResource.cache
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.AssemblyInfoInputs.cache
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.AssemblyInfo.cs
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.csproj.CoreCompileInputs.cache
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.dll
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.pdb
+E:\Download\operations-register\obj\Debug\netcoreapp3.1\OperationsRegister.genruntimeconfig.cache

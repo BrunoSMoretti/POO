@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Screens\TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\SplashScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\TelaAdicionar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\TelaDeletar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\TelaModificar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\TelaProcura.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\TelaVisualizar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screens\UserControls\TelaArquivo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

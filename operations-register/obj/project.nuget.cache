@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3pYnn3SymbS7X+1RyNOEr8oy9aJkGAhC1rCFcqS5Lr9dX+co4bVm6TkcnyrnAh8ehq8SBb0m3eiBD4iErkY5g==",
+  "success": true,
+  "projectFilePath": "E:\\Download\\operations-register\\OperationsRegister.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
